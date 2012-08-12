@@ -1,0 +1,3 @@
+[submodule "lightsOn"]
+	path = lightsOn
+	url = git://github.com/iye/lightsOn.git
